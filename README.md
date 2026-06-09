@@ -1,5 +1,6 @@
 # Sprawozdanie z Laboratorium nr 12
 **Przedmiot:** Programowanie Aplikacji w Chmurze Obliczeniowej (PAwChO)
+
 **Autor:** Jakub Fus
 
 ## Cel zadania
