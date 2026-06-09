@@ -1,4 +1,4 @@
-# Sprawozdanie z Laboratorium nr 12
+# Sprawozdanie z Laboratorium 12
 **Przedmiot:** Programowanie Aplikacji w Chmurze Obliczeniowej 
 
 **Autor:** Jakub Fus
